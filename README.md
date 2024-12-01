@@ -2,6 +2,7 @@
 Calculator App - C# Windows Forms Application
 
 This Calculator App is a feature-rich calculator built using C# and Windows Forms. It provides a user-friendly graphical interface for performing basic arithmetic operations.
+
 Key features include:
 - Basic Operations: Supports addition, subtraction, multiplication, and division.
 - Error Handling: Displays meaningful messages for invalid inputs like division by zero.
